@@ -1,0 +1,28 @@
+{
+  "name": "trilateration",
+  "version": "0.0.1",
+  "description": "Trilateration algorithms.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/d0gada/rtls.git"
+  },
+  "keywords": [
+    "rtls",
+    "trilateration"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/d0gada/rtls/issues"
+  },
+  "homepage": "https://gitlab.com/d0gada/rtls#README",
+  "devDependencies": {
+    "jest": "^21.2.1"
+  },
+  "jest": {}
+}
+

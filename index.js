@@ -1,0 +1,7 @@
+module.exports = require('./trilat234')
+module.exports = require('./trilat34')
+module.exports = require('./trilat234outSD.js')
+module.exports = require('./trilat234outBD.js')
+module.exports = require('./trilat234inoutSD.js')
+module.exports = require('./trilat234Prev.js')
+module.exports = require('./trilat234Circles.js')
